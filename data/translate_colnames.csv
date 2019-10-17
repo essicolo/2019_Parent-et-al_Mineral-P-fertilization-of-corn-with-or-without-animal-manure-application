@@ -1,0 +1,31 @@
+from_name_mm,to_name_mm,to_name_mm_long_en,to_name_mm_long_fr
+Plant density,seed.density,seeding rate,densité du semis
+Soil_Fv.AlP,soil_Fv.AlP,"soil [Fv | Al,P]","sol [Fv | Al,P]"
+Soil_Al.P,soil_Al.P,soil [Al | P],sol [Al | P]
+Soil_P.Al,soil_P.Al,soil P/Al,sol P/Al
+SoilSeries_G.P,soil_G.P,soil [gley | podzol],sol [gley | podzol]
+SoilSeries_LG.SG,soil_LG.SG,soil [loam gley | sandy gley],sol [gley loameux | gley sableux]
+pH,pH,pH,pH
+Texture_C.asS,texture_C.csS,"soil [carbon | clay,silt,sand]","sol [carbone | argile,limon,sable]"
+Texture_a.sS,texture_c.sS,"soil [clay | silt,sand]","soil [argile | limon,sable]"
+Texture_s.S,texture_s.S,soil [silt | sand],sol [limon | sable]
+SDI,SDI,SDI,IDS
+CTU,CHU,CHU,UTM
+tMean,tMean,mean temperature,température moyenne
+pcpCum,pcpCum,cumulated precipitations,précipitations cumulées
+(Intercept).ranef,(Intercept).ranef,Random effect,Effet aléatoire
+(Intercept),(Intercept),Intercept,Intercept
+doseP,dose P,dose P,dose P
+dose.P_sc,dose P sc,dose P scaled,dose P centré-réduit
+SDI_30,SDI_.30,SDI 0-30 days,IDS 0-30 jours
+CTU_30,CHU_.30,CHU 0-30 days,UTM 0-30 jours
+tMean_30,tMean_.30,mean temperature 0-30 days,température moyenne 0-30 jours
+pcpCum_30,pcpCum_.30,cumulated precipitations 0-30 days,précipitations cumulées 0-30 jours
+MaxLeafLength_cm,MaxLeafLength_cm,leaf length – 5 to 6 leaves,longueur de la feuille – 5 à 6 feuilles
+amendement.organique,amendement.organique,Organic amendments,Amendements organiques
+hp_log.temoin,hp_log.temoin,Plant height response log ratio,Hauteur du plant -  log ratio de réponse
+(Intercept).ranef,(Intercept).ranef,Random effect on intercept,Effet aléatoire sur l'intercept
+CultureSillage,CultureSillage,sillage corn,maïs ensillage
+CultureSweet,CultureSweet,sweet corn,maïs sucré
+is_manureTRUE,is_manureTRUE,fertilized with manure,fertilisé avec du fumier
+P.Source,"P source ","P source ","Source P"
